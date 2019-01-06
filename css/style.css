@@ -1,0 +1,31 @@
+.name{
+    font-weight: bold;
+}
+
+#users{
+    border: solid;
+    border-color: red;
+    height: 120pt;
+    overflow-y: scroll;
+    max-width: 360pt;
+}
+
+.entry{
+    background-color: lightgray;
+    margin: 5pt;
+    font-size: 15pt;
+}
+
+#load{
+    background-color: red;
+    color: white;
+    border: none;
+    margin: 5pt;
+    padding: 5pt;
+    font-size: 12pt;
+    border-radius: 3pt;
+}
+
+.full{
+    color: red;
+}
